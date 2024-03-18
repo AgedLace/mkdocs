@@ -1,5 +1,4 @@
 ---
-title: Post 2
 date: 
   created: 2022-02-31
   updated: 2024-03-17
